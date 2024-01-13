@@ -1,0 +1,18 @@
+h1 {
+    background-color:rgb(173, 132, 132);
+    color: brown;
+}
+body{
+    background-color: rgb(192, 185, 185);
+}
+p{
+    color: gray;
+}
+p.css{
+    background-color: rgb(242, 239, 235);
+    color: rgb(160, 160, 99);
+}
+ul > li > a {
+    color:darkgreen;
+    background-color:  rgb(242, 239, 235);
+}
